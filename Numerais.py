@@ -26,9 +26,5 @@ print(f'El número {numero} que escribió, se escribe {num_es}, en Español')
 num_es_ord = num2words = num2words(numero,lang='es',to='ordinal')
 print(f'El número {numero} que escribió, se escribe {num_es_ord}, en Español')
 
-""" num_it = num2words(numero,lang='it')
-print(f'Il numero {numero} que hai digitato, si scrive {num_it}, in Italiano')
 
-num_it_ord = num2words = num2words(numero,lang='it',to='ordinal')
-print(f'Il numero {numero} que hai digitato, si scrive {num_it_ord}, in ordinale Italiano') """
 
